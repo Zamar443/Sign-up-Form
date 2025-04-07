@@ -1,1 +1,1 @@
-# Sign-up-Form
+A sample of a sign up form, it's not responsive yet, it's still a work in progress.
